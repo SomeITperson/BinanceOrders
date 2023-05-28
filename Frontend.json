@@ -1,0 +1,9 @@
+{
+    "volume": 10000.0,
+    "number": 5,
+    "amountDif": 50.0,
+    "side": "BUY",  
+    "priceMin": 1900.0,
+    "priceMax": 2000.0,
+    "symbol": "ETHUSDT"  
+}
